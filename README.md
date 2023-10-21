@@ -40,7 +40,7 @@ From the analysis, the following observations were made:
 - The highest number of goods sold was in the month of April by the Government Segment in the United States of America
 - 16% of the of the organisation’s total profit was made in December.
 
-## Conclusion and Recommendation
+## Conclusion and Recommendations
 
 The analysis showed that Paseo made more sale than all other products sold in the organisation, selling in the Government and Midmarket segments drove sales in comparison to the other market segments and the organisation made the most sales from selling in the Government segment in the United States of America in April.
 
