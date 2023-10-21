@@ -25,7 +25,7 @@ This data was obtained from the Sales Record provided in the Data Analytics Coho
 
 ## Data Cleaning and Transformation
 
-The data provided was cleaned but a couple of data filtering (such as formatting the text and number types) was done to make sure the data does not return error during the analysis.
+The data provided was cleaned but data filtering (such as formatting the text and number types) was done to make sure the data does not return error during the analysis.
 
 ## Data Modelling
 
