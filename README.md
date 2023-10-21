@@ -33,6 +33,8 @@ This was not done as it this is not required for the task.
 
 ## Analysis and Visualisation
 
+![](Company_X_Sales_Analysis.png)
+
 From the analysis, the following observations were made:
 - Paseo made up 96% of the Total Average of all the products sold in the Sales Record.
 - Government and Midmarket make up 57% of the Total Segment in the Sales Record
